@@ -1,0 +1,1 @@
+Program('struct.cpp')
